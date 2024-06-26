@@ -1,32 +1,35 @@
 <h1>Fintech Fiap - Tela de Cadastro</h1>
-
 <h3>Descrição</h3>
 <p>Este projeto é uma simples tela de cadastro para uma aplicação de fintech, desenvolvida utilizando HTML, CSS e Bootstrap. A tela permite que novos usuários se cadastrem, inserindo informações como nome, sobrenome, e-mail, CPF e senha.</p>
-
 <h3>Tecnologias Utilizadas</h3>
-<li>
-<ul>HTML5</ul>
-<ul>CSS3</ul>
-<ul>Bootstrap 5</ul>
-</li>
-
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>Bootstrap 5</li>
+</ul>
 <h3>Estrutura do Projeto</h3>
-index.html: Contém o código HTML da página de cadastro.
-css/style.css: Contém o estilo personalizado da página.
-img/Fintech Industry.png: Ícone da aplicação.
-img/banner_cadastro.png: Banner exibido na tela de cadastro.
-
+<ul>
+  <li><strong>index.html</strong>: Contém o código HTML da página de cadastro.</li>
+  <li><strong>css/style.css</strong>: Contém o estilo personalizado da página.</li>
+  <li><strong>img/Fintech Industry.png</strong>: Ícone da aplicação.</li>
+  <li><strong>img/banner_cadastro.png</strong>: Banner exibido na tela de cadastro.</li>
+</ul>
 <h3>Funcionalidades</h3>
-<li>
-<ul>Formulário de cadastro com validação de campos obrigatórios.</ul>
-<ul>Seção para redirecionar usuários já registrados para a página de login.</ul>
-<ul>Design responsivo utilizando Bootstrap.</ul>
-</li>
+<ul>
+  <li>Formulário de cadastro com validação de campos obrigatórios.</li>
+  <li>Seção para redirecionar usuários já registrados para a página de login.</li>
+  <li>Design responsivo utilizando Bootstrap.</li>
+</ul>
+<h3>FOTOS</h3>
+![tela1](https://github.com/NotedSilva/Fintech_Cadastro/assets/119432493/c51ebad0-1a2c-4872-b8a1-b5bda639ea89)
+![tela2](https://github.com/NotedSilva/Fintech_Cadastro/assets/119432493/0d7c75ab-18df-4dfb-b507-a4da52bf92de)
+
 
 <h3>Como Usar</h3>
-
-<h4>Clone o repositório para sua máquina local:</h4>
-git clone https://github.com/seu-usuario/seu-repositorio.git
-Navegue até o diretório do projeto:
-cd seu-repositorio
-Abra o arquivo index.html em seu navegador preferido.
+<p>
+  <h4>Clone o repositório para sua máquina local:</h4>
+  <code>git clone https://github.com/seu-usuario/seu-repositorio.git</code> <br/>
+  <h4>Navegue até o diretório do projeto:</h4>
+  <code>cd seu-repositorio</code> <br/>
+  <h4>Abra o arquivo index.html em seu navegador preferido.</h4>
+</p>
