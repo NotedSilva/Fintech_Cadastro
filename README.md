@@ -21,8 +21,10 @@
   <li>Design responsivo utilizando Bootstrap.</li>
 </ul>
 <h3>FOTOS</h3>
-![tela1](https://github.com/NotedSilva/Fintech_Cadastro/assets/119432493/5d8e94bd-0fb7-4825-a501-8000b60aee58)
-![tela2](https://github.com/NotedSilva/Fintech_Cadastro/assets/119432493/1e8a1541-8e33-4797-a54a-3fa287b01ce4)
+
+![tela1](https://github.com/NotedSilva/Fintech_Cadastro/assets/119432493/57648da1-faa5-47c9-b616-fb4d7308aae7)
+
+![tela2](https://github.com/NotedSilva/Fintech_Cadastro/assets/119432493/cecbfef2-26a5-487e-8459-1d185889e5f9)
 
 
 
